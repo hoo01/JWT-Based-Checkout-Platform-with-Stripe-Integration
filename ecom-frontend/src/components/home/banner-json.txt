@@ -1,0 +1,21 @@
+{
+    id: 1,
+    image: "https://embarkx.com/sample/placeholder.png",
+    title: "Powerhouse Performance",
+    subtitle: "laptop",
+    description: "Ultra-slim design with blazing fast processors for work and play"
+},
+{
+    id: 2,
+    image: "https://embarkx.com/sample/placeholder.png",
+    title: "Health Companion",
+    subtitle: "smartwatch",
+    description: "Track fitness goals and stay connected with advanced health monitoring"
+},
+{
+    id: 3,
+    image: "https://embarkx.com/sample/placeholder.png",
+    title: "Immersive Sound",
+    subtitle: "headphones",
+    description: "Crystal-clear audio with noise cancellation for your daily commute"
+}
